@@ -1,5 +1,9 @@
 # Student Performance Insights: From Cleaning to Clustering to Classification
 
+
+<img width="1438" height="744" alt="image" src="https://github.com/user-attachments/assets/cc9f6c5f-a88e-4192-86b1-0830398df6ed" />
+
+
 ## 🎯 Project Overview
 
 This comprehensive data science project analyzes student performance data to develop actionable insights and predictive models for early identification of at-risk students. Using 649 student records from the UCI Machine Learning Repository, we implement a complete pipeline from data cleaning to machine learning model deployment.
