@@ -48,7 +48,11 @@ student-performance-analysis/
 │   └── README.md (this file)
 │
 └── 🚀 Scripts/ (optional)
-    └── run_full_pipeline.py (to be created)
+|    └── run_full_pipeline.py (to be created)
+│
+└── 🚀 dashboard/ 
+    ├── streamlit_eda_dashboard.py
+    └── streamlit_model_dashboard.py
 ```
 
 ---
