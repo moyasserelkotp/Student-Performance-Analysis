@@ -1,0 +1,39 @@
+# Student Performance Analysis - Requirements File
+# ================================================
+# Python dependencies for complete project reproduction
+# Install with: pip install -r requirements.txt
+
+# Core Data Science Stack
+pandas>=1.5.0
+numpy>=1.21.0
+scipy>=1.9.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+ucimlrepo>=0.0.3
+
+# Data Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+ipykernel>=6.15.0
+nbformat>=5.4.0
+
+# Statistical Analysis
+statsmodels>=0.13.0
+
+# Optional: Enhanced Analysis
+# plotly>=5.10.0           # Interactive visualizations
+# shap>=0.41.0             # Model explainability  
+# imbalanced-learn>=0.9.0  # Handling class imbalance
+# optuna>=3.0.0            # Advanced hyperparameter optimization
+
+# Development Tools (Optional)
+# black>=22.0.0            # Code formatting
+# flake8>=5.0.0            # Linting
+# pytest>=7.0.0            # Testing framework
+
+# Note: Versions specified are minimum requirements
+# Latest stable versions recommended for best performance
