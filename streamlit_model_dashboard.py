@@ -1,10 +1,3 @@
-"""
-Student Performance Analysis - Model Dashboard
-=============================================
-Interactive Streamlit dashboard for model prediction and performance analysis
-Usage: streamlit run streamlit_model_dashboard.py
-"""
-
 import streamlit as st
 import pandas as pd
 import numpy as np
