@@ -29,8 +29,9 @@ student-performance-analysis/
 │   └── 6_supervised_learning_classification.ipynb
 │
 ├── 📋 Reports/
-│   ├── Technical_Report_Student_Performance_Analysis.md
-│   └── Executive_Summary_Slides.pdf (to be created)
+│   ├── Technical_Report_Student_Performance_Analysis.docx
+    ├── From-Reactive-to-Predictive.pdf
+│   └── technical_report(1).docx
 │
 ├── 💾 Data/ (generated during execution)
 │   ├── student_data_cleaned.csv
@@ -50,8 +51,9 @@ student-performance-analysis/
 │   ├── requirements.txt
 │   └── README.md (this file)
 │
-└── 🚀 Scripts/ (optional)
-    └── run_full_pipeline.py (to be created)
+└── 🚀 Dashboard/ Streamlite
+    ├──  streamlit_eda_dashboard.py
+    └──  streamlit_model_dashboard.py
 ```
 
 ---
