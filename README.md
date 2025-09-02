@@ -192,3 +192,7 @@ jupyter notebook
 ### 🎯 Predictive Performance
 - **Best Model:** Random Forest (87.7% accuracy, 92.1% ROC-AUC)
 - **Early Prediction:** Strong performance without mi
+
+## 📊 EDA & MODEL VIDEO
+https://drive.google.com/drive/folders/1u609ufARH_JozOSBjcqV7pxJnJQYnnny?usp=sharing
+
